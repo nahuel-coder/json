@@ -1,0 +1,8 @@
+[
+    {"nombre": "IT", "autor":"Stephen King", "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/58/cc/58cce335a364ed961fd7edb0ab9a2c75.jpg"},
+    {"nombre": "Harry Potter", "autor":"JK Rowling", "img":"https://static.wikia.nocookie.net/esharrypotter/images/d/db/HP1_portada_español_de_bolsillo_2020.jpg/revision/latest?cb=20200606233250"},
+    {"nombre": "Cancion de fuego y hielo", "autor":"George RR Martin", "img":"http://3.bp.blogspot.com/-tbrBXOZoSFc/UeVb5QJSecI/AAAAAAAABdQ/ZogaJI18QDQ/s1600/tumbaabierta_novela_Juego-de-tronos.jpg"},
+    {"nombre": "Bajo la misma estrella", "autor":"John Green", "img":"https://static.wikia.nocookie.net/biblioteca-virtual-de-literatura/images/b/bf/Bajo_la_misma_estrella.jpg/revision/latest/top-crop/width/360/height/450?cb=20150514045105&path-prefix=es"},
+    {"nombre": "La Metamorfosis", "autor":"Frank Kafka", "img":"https://i.pinimg.com/originals/4c/50/b5/4c50b50e4275b1379164586eb814c714.jpg"},
+    {"nombre": "Rayuela", "autor":"Julio Cortázar", "img":"https://resizer.glanacion.com/resizer/LLVU-KC3gz7DwmresFVTFLtWIJI=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/EXNHEFZPYRDBDGPICNNOI64VRY.jpg"}
+]
